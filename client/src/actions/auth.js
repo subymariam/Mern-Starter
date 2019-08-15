@@ -73,6 +73,7 @@ export function resetPassword(token, { password }) {
         payload: response.data.message,
       });
       // Redirect to login page on successful password reset
+  
       browserHistory.push('/login');
     })
     .catch((error) => {
