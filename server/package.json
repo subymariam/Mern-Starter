@@ -23,7 +23,7 @@
     "jsonwebtoken": "^5.7.0",
     "mailchimp-v3": "^1.0.1",
     "mailgun-js": "^0.22.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^4.13.19",
     "morgan": "^1.9.1",
     "passport": "^0.3.2",
